@@ -1,0 +1,2 @@
+This is some sample data for our preschool project.
+We will update this file and push changes to GitHub.
